@@ -1,0 +1,94 @@
+
+c
+java:S1192é"GDefine a constant instead of duplicating this literal "gameID" 3 times.(ìâïıÿÿÿÿ
+`
+java:S1192Ş"IDefine a constant instead of duplicating this literal "gameName" 3 times.(‹Ç£ä
+o
+java:S1192^"ZDefine a constant instead of duplicating this literal "Other error. Try again. 
+" 9 times.(Ñü†7
+q
+java:S1192Ê"ZDefine a constant instead of duplicating this literal "Bad request. Try again. 
+" 4 times.(ôöÓÖ
+b
+java:S1192Ù"FDefine a constant instead of duplicating this literal "/game" 3 times.(ê´ã£şÿÿÿÿ
+q
+java:S1192f"[Define a constant instead of duplicating this literal "Unauthorized. Try again. 
+" 6 times.(¬çÔ†
+_
+java:S1192u"IDefine a constant instead of duplicating this literal "username" 4 times.(ÄÕ³¦
+]
+java:S1192#"GDefine a constant instead of duplicating this literal "status" 9 times.(Úÿø—
+{
+java:S1319"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(’Ğ¸šşÿÿÿÿ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ŠÙ…
+0
+java:S1220""Move this file to a named package.
+X
+java:S2259#"BA "NullPointerException" could be thrown; "temp" is nullable here.(Úÿø—
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(ö¬
+‡
+java:S1130>"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¯‹Ü°úÿÿÿÿ
+\
+java:S1075X"ARefactor your code to get this URI from a customizable parameter.(¥íËÎÿÿÿÿÿ
+?	java:S106^"+Replace this use of System.out by a logger.(Ñü†7
+@	java:S106c"+Replace this use of System.out by a logger.(¥†ÖÉ
+@	java:S106f"+Replace this use of System.out by a logger.(¬çÔ†
+?	java:S106i"+Replace this use of System.out by a logger.(Ñü†7
+V
+java:S1075o"ARefactor your code to get this URI from a customizable parameter.(ÛÌJ
+m
+java:S3457…"Q%n should be used in place of \n to produce the platform-specific line separator.(ñƒ«ûÿÿÿÿ
+F	java:S106…"+Replace this use of System.out by a logger.(ñƒ«ûÿÿÿÿ
+A	java:S106‰"+Replace this use of System.out by a logger.(¬çÔ†
+@	java:S106"+Replace this use of System.out by a logger.(Ñü†7
+W
+java:S1075”"ARefactor your code to get this URI from a customizable parameter.(ÛÌJ
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(¾•ÄËúÿÿÿÿ
+A	java:S106£"+Replace this use of System.out by a logger.(¬çÔ†
+@	java:S106§"+Replace this use of System.out by a logger.(Ñü†7
+]
+java:S1075®"ARefactor your code to get this URI from a customizable parameter.(”É÷ùÿÿÿÿ
+m
+java:S3457Æ"Q%n should be used in place of \n to produce the platform-specific line separator.(ñƒ«ûÿÿÿÿ
+F	java:S106Æ"+Replace this use of System.out by a logger.(ñƒ«ûÿÿÿÿ
+A	java:S106Ê"+Replace this use of System.out by a logger.(ôöÓÖ
+F	java:S106Î"+Replace this use of System.out by a logger.(¿Ü™âøÿÿÿÿ
+@	java:S106Ò"+Replace this use of System.out by a logger.(Ñü†7
+]
+java:S1075Ù"ARefactor your code to get this URI from a customizable parameter.(ê´ã£şÿÿÿÿ
+m
+java:S3457ê"Q%n should be used in place of \n to produce the platform-specific line separator.(ùÄÃüÿÿÿÿ
+F	java:S106ê"+Replace this use of System.out by a logger.(ùÄÃüÿÿÿÿ
+A	java:S106î"+Replace this use of System.out by a logger.(ôöÓÖ
+A	java:S106ò"+Replace this use of System.out by a logger.(¬çÔ†
+@	java:S106ö"+Replace this use of System.out by a logger.(Ñü†7
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ù›­é
+]
+java:S1075ı"ARefactor your code to get this URI from a customizable parameter.(ê´ã£şÿÿÿÿ
+@	java:S106‰"+Replace this use of System.out by a logger.(¨ô
+m
+java:S3457–"Q%n should be used in place of \n to produce the platform-specific line separator.(Îôâ²ûÿÿÿÿ
+F	java:S106–"+Replace this use of System.out by a logger.(Îôâ²ûÿÿÿÿ
+h
+java:S3457—"Q%n should be used in place of \n to produce the platform-specific line separator.(ë«Ëï
+A	java:S106—"+Replace this use of System.out by a logger.(ë«Ëï
+g
+java:S3457˜"Q%n should be used in place of \n to produce the platform-specific line separator.(€Åæ
+@	java:S106˜"+Replace this use of System.out by a logger.(€Åæ
+h
+java:S3457™"Q%n should be used in place of \n to produce the platform-specific line separator.(™ğ´
+A	java:S106™"+Replace this use of System.out by a logger.(™ğ´
+F	java:S106š"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+A	java:S106Ÿ"+Replace this use of System.out by a logger.(ôöÓÖ
+A	java:S106£"+Replace this use of System.out by a logger.(¬çÔ†
+@	java:S106§"+Replace this use of System.out by a logger.(Ñü†7
+]
+java:S1075®"ARefactor your code to get this URI from a customizable parameter.(ê´ã£şÿÿÿÿ
+@	java:S106¾"+Replace this use of System.out by a logger.(Ñü†7
+A	java:S106Ä"+Replace this use of System.out by a logger.(Ñàšî
+A	java:S106È"+Replace this use of System.out by a logger.(ôöÓÖ
+A	java:S106Ì"+Replace this use of System.out by a logger.(¬çÔ†
+@	java:S106Ğ"+Replace this use of System.out by a logger.(Ñü†7
